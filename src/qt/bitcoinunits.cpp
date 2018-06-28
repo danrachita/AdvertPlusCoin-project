@@ -45,9 +45,9 @@ QString BitcoinUnits::description(int unit)
 {
     switch(unit)
     {
-    case BTC: return QString("Adevpluss");
-    case mBTC: return QString("Milli-Adevpluss (1 / 1,000)");
-    case uBTC: return QString("Micro-Adevpluss (1 / 1,000,000)");
+    case BTC: return QString("AdevPluss");
+    case mBTC: return QString("Milli-AdevPluss (1 / 1,000)");
+    case uBTC: return QString("Micro-AdevPluss (1 / 1,000,000)");
     default: return QString("???");
     }
 }

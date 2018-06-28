@@ -1,8 +1,8 @@
 #ifndef QTIPCSERVER_H
 #define QTIPCSERVER_H
 
-// Define Adevplus-Qt message queue name
-#define BITCOINURI_QUEUE_NAME "AdevplusURI"
+// Define AdevPlus-Qt message queue name
+#define BITCOINURI_QUEUE_NAME "AdevPlusURI"
 
 void ipcScanRelay(int argc, char *argv[]);
 void ipcInit(int argc, char *argv[]);

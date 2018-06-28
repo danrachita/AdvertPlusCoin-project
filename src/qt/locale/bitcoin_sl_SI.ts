@@ -3,19 +3,19 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Adevplus</source>
-        <translation>O Adevplus</translation>
+        <source>About AdevPlus</source>
+        <translation>O AdevPlus</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Adevplus&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Adevplus&lt;/b&gt; verzija</translation>
+        <source>&lt;b&gt;AdevPlus&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;AdevPlus&lt;/b&gt; verzija</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Adevplus developers</source>
+Copyright © 2014 The AdevPlus developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -63,8 +63,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your Adevplus addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>To so vaši Adevplus naslovi za prejemanje plačil. Priporočeno je da vsakemu pošiljatelju namenite drugega in tako dobite večji pregled nad svojimi nakazili.</translation>
+        <source>These are your AdevPlus addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>To so vaši AdevPlus naslovi za prejemanje plačil. Priporočeno je da vsakemu pošiljatelju namenite drugega in tako dobite večji pregled nad svojimi nakazili.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -78,8 +78,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Adevplus address</source>
-        <translation>Podpišite sporočilo, kot dokazilo lastništva Adevplus naslova</translation>
+        <source>Sign a message to prove you own a AdevPlus address</source>
+        <translation>Podpišite sporočilo, kot dokazilo lastništva AdevPlus naslova</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -93,8 +93,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified Adevplus address</source>
-        <translation>Potrdi sporočilo, da zagotovite, da je bilo podpisano z izbranim Adevplus naslovom</translation>
+        <source>Verify a message to ensure it was signed with a specified AdevPlus address</source>
+        <translation>Potrdi sporočilo, da zagotovite, da je bilo podpisano z izbranim AdevPlus naslovom</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -261,8 +261,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-58"/>
-        <source>Adevplus will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>Adevplus se bo sedaj zaprl, da dokonča proces šifriranje. Pomnite, da tudi šifriranje vaše denarnice ne more v celoti zaščititi vaših kovancev pred krajo z zlonamernimi programi in računalniškimi virusi, če ti okužijo vaš računalnik.</translation>
+        <source>AdevPlus will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>AdevPlus se bo sedaj zaprl, da dokonča proces šifriranje. Pomnite, da tudi šifriranje vaše denarnice ne more v celoti zaščititi vaših kovancev pred krajo z zlonamernimi programi in računalniškimi virusi, če ti okužijo vaš računalnik.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -375,8 +375,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Adevplus</source>
-        <translation>Pokaži informacije o Adevplus</translation>
+        <source>Show information about AdevPlus</source>
+        <translation>Pokaži informacije o AdevPlus</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -425,13 +425,13 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a Adevplus address</source>
-        <translation>Pošlji kovance na Adevplus naslov</translation>
+        <source>Send coins to a AdevPlus address</source>
+        <translation>Pošlji kovance na AdevPlus naslov</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for Adevplus</source>
-        <translation>Spremeni nastavitve za Adevplus</translation>
+        <source>Modify configuration options for AdevPlus</source>
+        <translation>Spremeni nastavitve za AdevPlus</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -470,8 +470,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-200"/>
-        <source>Adevplus</source>
-        <translation>Adevplus</translation>
+        <source>AdevPlus</source>
+        <translation>AdevPlus</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -480,8 +480,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About Adevplus</source>
-        <translation>&amp;O Adevplus</translation>
+        <source>&amp;About AdevPlus</source>
+        <translation>&amp;O AdevPlus</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -537,13 +537,13 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>Adevplus client</source>
-        <translation>Adevplus program</translation>
+        <source>AdevPlus client</source>
+        <translation>AdevPlus program</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to Adevplus network</source>
-        <translation><numerusform>%n aktivne povezave na Adevplus omrežje</numerusform><numerusform>%n aktivnih povezav na Adevplus omrežje</numerusform><numerusform>%n aktivnih povezav na Adevplus omrežje</numerusform><numerusform>%n aktivnih povezav na Adevplus omrežje</numerusform></translation>
+        <source>%n active connection(s) to AdevPlus network</source>
+        <translation><numerusform>%n aktivne povezave na AdevPlus omrežje</numerusform><numerusform>%n aktivnih povezav na AdevPlus omrežje</numerusform><numerusform>%n aktivnih povezav na AdevPlus omrežje</numerusform><numerusform>%n aktivnih povezav na AdevPlus omrežje</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -657,8 +657,8 @@ Naslov: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Adevplus address or malformed URI parameters.</source>
-        <translation>URI ne more biti razčlenjen! To se lahko zgodi zaradi neveljavnega Adevplus naslova ali slabih parametrov URI.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid AdevPlus address or malformed URI parameters.</source>
+        <translation>URI ne more biti razčlenjen! To se lahko zgodi zaradi neveljavnega AdevPlus naslova ali slabih parametrov URI.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -717,8 +717,8 @@ Naslov: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. Adevplus can no longer continue safely and will quit.</source>
-        <translation>Prišlo je do usodne napake. Program Adevplus se ne more več varno nadaljevati in se bo zato zaprl. </translation>
+        <source>A fatal error occurred. AdevPlus can no longer continue safely and will quit.</source>
+        <translation>Prišlo je do usodne napake. Program AdevPlus se ne more več varno nadaljevati in se bo zato zaprl. </translation>
     </message>
 </context>
 <context>
@@ -1051,8 +1051,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Adevplus address.</source>
-        <translation>Vneseni naslov &quot;%1&quot; ni veljaven Adevplus naslov.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid AdevPlus address.</source>
+        <translation>Vneseni naslov &quot;%1&quot; ni veljaven AdevPlus naslov.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1070,8 +1070,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>Adevplus-Qt</source>
-        <translation>Adevplus-Qt</translation>
+        <source>AdevPlus-Qt</source>
+        <translation>AdevPlus-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1143,13 +1143,13 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Adevplus after logging in to the system.</source>
-        <translation>Avtomatično zaženi Adevplus ob zagonu sistema.</translation>
+        <source>Automatically start AdevPlus after logging in to the system.</source>
+        <translation>Avtomatično zaženi AdevPlus ob zagonu sistema.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Adevplus on system login</source>
-        <translation>&amp;Zaženi Adevplus ob prijavi v sistem</translation>
+        <source>&amp;Start AdevPlus on system login</source>
+        <translation>&amp;Zaženi AdevPlus ob prijavi v sistem</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1168,8 +1168,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Adevplus client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Avtomatično odpri vrata na routerju za Adevplus program. To deluje le če vaš router podpira UPnP in je ta omogočen. </translation>
+        <source>Automatically open the AdevPlus client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Avtomatično odpri vrata na routerju za AdevPlus program. To deluje le če vaš router podpira UPnP in je ta omogočen. </translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1178,8 +1178,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Adevplus network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Poveži se na Adevplus omrežje skozi SOCKS proxy (npr. ko se povezujete prek Tora)</translation>
+        <source>Connect to the AdevPlus network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Poveži se na AdevPlus omrežje skozi SOCKS proxy (npr. ko se povezujete prek Tora)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1253,8 +1253,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Adevplus.</source>
-        <translation>Tu lahko nastavite jezik uporabniškega vmesnika. Nastavitve bodo pričele delovati ob ponovnem zagonu Adevplus aplikacije. </translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting AdevPlus.</source>
+        <translation>Tu lahko nastavite jezik uporabniškega vmesnika. Nastavitve bodo pričele delovati ob ponovnem zagonu AdevPlus aplikacije. </translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1268,8 +1268,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Adevplus addresses in the transaction list or not.</source>
-        <translation>Izbira prikaza Adevplus naslovov v seznamu transakcij.</translation>
+        <source>Whether to show AdevPlus addresses in the transaction list or not.</source>
+        <translation>Izbira prikaza AdevPlus naslovov v seznamu transakcij.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1315,8 +1315,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Adevplus.</source>
-        <translation>Ta nastavitev bo pričela delovati ob ponovnem zagonu Adevplus aplikacije</translation>
+        <source>This setting will take effect after restarting AdevPlus.</source>
+        <translation>Ta nastavitev bo pričela delovati ob ponovnem zagonu AdevPlus aplikacije</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1334,8 +1334,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Adevplus network after a connection is established, but this process has not completed yet.</source>
-        <translation>Prikazane informacije so morda zastarele. Vaša denarnica se avtomatično sinhronizira z Adevplus omrežjem, ko je vzpostavljena povezava, toda ta proces še ni bil zaključen.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the AdevPlus network after a connection is established, but this process has not completed yet.</source>
+        <translation>Prikazane informacije so morda zastarele. Vaša denarnica se avtomatično sinhronizira z AdevPlus omrežjem, ko je vzpostavljena povezava, toda ta proces še ni bil zaključen.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1550,8 +1550,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Adevplus-Qt help message to get a list with possible Adevplus command-line options.</source>
-        <translation>Prikaži Adevplus-Qt sporočilo za pomoč , ki prikaže vse možnosti ukazne vrstice Adevplus aplikacije</translation>
+        <source>Show the AdevPlus-Qt help message to get a list with possible AdevPlus command-line options.</source>
+        <translation>Prikaži AdevPlus-Qt sporočilo za pomoč , ki prikaže vse možnosti ukazne vrstice AdevPlus aplikacije</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1570,13 +1570,13 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>Adevplus - Debug window</source>
-        <translation>Adevplus - okno za odpravljanje napak</translation>
+        <source>AdevPlus - Debug window</source>
+        <translation>AdevPlus - okno za odpravljanje napak</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Adevplus Core</source>
-        <translation>Adevplus jedro</translation>
+        <source>AdevPlus Core</source>
+        <translation>AdevPlus jedro</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1585,8 +1585,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Adevplus debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Odpri Adevplus datoteko zapisov odpravljanja napak iz trenutnega direktorija podatkov. Če so datoteke zapisov velike, to lahko traja nekaj sekund.</translation>
+        <source>Open the AdevPlus debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Odpri AdevPlus datoteko zapisov odpravljanja napak iz trenutnega direktorija podatkov. Če so datoteke zapisov velike, to lahko traja nekaj sekund.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1595,8 +1595,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the Adevplus RPC console.</source>
-        <translation>Dobrodošli v Adevplus RPC konzoli.</translation>
+        <source>Welcome to the AdevPlus RPC console.</source>
+        <translation>Dobrodošli v AdevPlus RPC konzoli.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1754,8 +1754,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a Adevplus address (e.g. R8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Vnesite Adevplus naslov (e.g. R8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a AdevPlus address (e.g. A8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Vnesite AdevPlus naslov (e.g. A8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1854,8 +1854,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid Adevplus address</source>
-        <translation>OPOZORILO: Neveljaven Adevplus naslov</translation>
+        <source>WARNING: Invalid AdevPlus address</source>
+        <translation>OPOZORILO: Neveljaven AdevPlus naslov</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1898,8 +1898,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. R8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Naslov kamor želite poslati plačilo (e.g. R8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>The address to send the payment to  (e.g. A8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Naslov kamor želite poslati plačilo (e.g. A8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1928,8 +1928,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Adevplus address (e.g. R8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Vnesite Adevplus naslov (npr. R8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a AdevPlus address (e.g. A8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Vnesite AdevPlus naslov (npr. A8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -1952,8 +1952,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. R8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Naslov s katerim želite podpisati sporočilo (npr. R8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>The address to sign the message with (e.g. A8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Naslov s katerim želite podpisati sporočilo (npr. A8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1989,8 +1989,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Adevplus address</source>
-        <translation>Podpišite sporočilo, kot dokazilo lastništva Adevplus naslova</translation>
+        <source>Sign the message to prove you own this AdevPlus address</source>
+        <translation>Podpišite sporočilo, kot dokazilo lastništva AdevPlus naslova</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2016,13 +2016,13 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. R8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Naslov s katerim je bilo podpisano sporočilo (npr. R8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>The address the message was signed with (e.g. A8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Naslov s katerim je bilo podpisano sporočilo (npr. A8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Adevplus address</source>
-        <translation>Potrdite sporočilo, da zagotovite, da je bilo podpisano z izbranim Adevplus naslovom</translation>
+        <source>Verify the message to ensure it was signed with the specified AdevPlus address</source>
+        <translation>Potrdite sporočilo, da zagotovite, da je bilo podpisano z izbranim AdevPlus naslovom</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2032,8 +2032,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Adevplus address (e.g. R8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Vnesite Adevplus naslov (npr. R8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a AdevPlus address (e.g. A8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Vnesite AdevPlus naslov (npr. A8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2042,8 +2042,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Adevplus signature</source>
-        <translation>Vnesite Adevplus podpis</translation>
+        <source>Enter AdevPlus signature</source>
+        <translation>Vnesite AdevPlus podpis</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2247,8 +2247,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Generated coins must mature 7 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to &quot;not accepted&quot; and it won&apos;t be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
-        <translation>Ustvarjeni kovanci morajo zoreti 7 blokov preden so lahko potrošeni. Ko ustvarite ta blok, je predvajan po mreži in nanizan v verigo blokov. Če mu priključitev na verigo spodleti, se bo njegovo stanje spremenilo v &quot;ni sprejet&quot; in ne bo razpoložljiv. To se lahko občasno zgodi, če drugo vozlišče ustvari blok par sekund pred vami. </translation>
+        <source>Generated coins must mature 15 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to &quot;not accepted&quot; and it won&apos;t be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
+        <translation>Ustvarjeni kovanci morajo zoreti 15 blokov preden so lahko potrošeni. Ko ustvarite ta blok, je predvajan po mreži in nanizan v verigo blokov. Če mu priključitev na verigo spodleti, se bo njegovo stanje spremenilo v &quot;ni sprejet&quot; in ne bo razpoložljiv. To se lahko občasno zgodi, če drugo vozlišče ustvari blok par sekund pred vami. </translation>
     </message>
     <message>
         <location line="+7"/>
@@ -2613,8 +2613,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>Adevplus version</source>
-        <translation>Adevplus različica</translation>
+        <source>AdevPlus version</source>
+        <translation>AdevPlus različica</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2673,8 +2673,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Listen for connections on &lt;port&gt; (default: 36319 or testnet: 46319)</source>
-        <translation>Sprejmi povezave na &lt;port&gt; (privzeta vrata: 36319 ali testnet: 46319) </translation>
+        <source>Listen for connections on &lt;port&gt; (default: 39527 or testnet: 49527)</source>
+        <translation>Sprejmi povezave na &lt;port&gt; (privzeta vrata: 39527 ali testnet: 49527) </translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2733,8 +2733,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="-87"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 36320 or testnet: 46320)</source>
-        <translation>Sprejmi povezave na &lt;port&gt; (privzeta vrata: 36319 ali testnet: 46319) </translation>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 39528 or testnet: 49528)</source>
+        <translation>Sprejmi povezave na &lt;port&gt; (privzeta vrata: 39527 ali testnet: 49527) </translation>
     </message>
     <message>
         <location line="-11"/>
@@ -2798,8 +2798,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Adevplus will not work properly.</source>
-        <translation>Opozorilo: Prosimo preverite svoj datum in čas svojega računalnika! Če je vaša ura nastavljena napačno Adevplus ne bo deloval.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong AdevPlus will not work properly.</source>
+        <translation>Opozorilo: Prosimo preverite svoj datum in čas svojega računalnika! Če je vaša ura nastavljena napačno AdevPlus ne bo deloval.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2994,7 +2994,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Adevplus Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;AdevPlus Alert&quot; admin@foo.com
 </source>
         <translation>%s, nastaviti morate rpcgeslo v konfiguracijski datoteki: 
  %s
@@ -3005,7 +3005,7 @@ rpcpassword=%s
 Uporabniško ime in geslo NE SMETA biti ista. 
 Če datoteka ne obstaja, jo ustvarite z lastniškimi dovoljenji za datoteke. 
 Prav tako je priporočeno, da nastavite alernotify, tkako da vas opozori na probleme;
-na primer: alertnotify=echo %%s | mail -s &quot;Adevplus Alarm&quot; admin@foo.com
+na primer: alertnotify=echo %%s | mail -s &quot;AdevPlus Alarm&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3130,13 +3130,13 @@ na primer: alertnotify=echo %%s | mail -s &quot;Adevplus Alarm&quot; admin@foo.c
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  Adevplus is probably already running.</source>
-        <translation>Ni bilo mogoče najti podatkovnega imenika %s. Aplikacija Adevplus je verjetno že zagnana.</translation>
+        <source>Cannot obtain a lock on data directory %s.  AdevPlus is probably already running.</source>
+        <translation>Ni bilo mogoče najti podatkovnega imenika %s. Aplikacija AdevPlus je verjetno že zagnana.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>Adevplus</source>
-        <translation>Adevplus</translation>
+        <source>AdevPlus</source>
+        <translation>AdevPlus</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3170,13 +3170,13 @@ na primer: alertnotify=echo %%s | mail -s &quot;Adevplus Alarm&quot; admin@foo.c
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Adevplus</source>
-        <translation>Napaka pri nalaganju wallet.dat: denarnica zahteva novejšo verzijo Adevplus</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of AdevPlus</source>
+        <translation>Napaka pri nalaganju wallet.dat: denarnica zahteva novejšo verzijo AdevPlus</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Adevplus to complete</source>
-        <translation>Denarnica mora biti prepisana: ponovno odprite Adevplus za dokončanje</translation>
+        <source>Wallet needed to be rewritten: restart AdevPlus to complete</source>
+        <translation>Denarnica mora biti prepisana: ponovno odprite AdevPlus za dokončanje</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3245,8 +3245,8 @@ na primer: alertnotify=echo %%s | mail -s &quot;Adevplus Alarm&quot; admin@foo.c
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. Adevplus is probably already running.</source>
-        <translation>Navezava v %s  na tem računalniku ni mogoča Adevplus aplikacija je verjetno že zagnana.</translation>
+        <source>Unable to bind to %s on this computer. AdevPlus is probably already running.</source>
+        <translation>Navezava v %s  na tem računalniku ni mogoča AdevPlus aplikacija je verjetno že zagnana.</translation>
     </message>
     <message>
         <location line="-97"/>

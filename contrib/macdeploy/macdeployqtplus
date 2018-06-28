@@ -241,7 +241,7 @@ def changeIdentification(id, binaryPath, verbose):
 def runStrip(binaryPath, verbose):
     if verbose >= 3:
         print "Using strip:"
-        print " stadevplus", binaryPath
+        print " stripped", binaryPath
     subprocess.check_call(["strip", "-x", binaryPath])
 
 def copyFramework(framework, path, verbose):

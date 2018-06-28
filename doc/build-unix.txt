@@ -16,7 +16,7 @@ To Build
 cd src/
 make -f makefile.unix            # Headless adevplus
 
-See readme-qt.rst for instructions on building Adevplus QT,
+See readme-qt.rst for instructions on building AdevPlus QT,
 the graphical adevplus.
 
 Dependencies
